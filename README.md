@@ -14,7 +14,7 @@ sioc251_radiative_transfer/
 │       ├── light_through_prism.png
 │       └── test_case.png
 ├── HW1/                            # Homework 1: Monte Carlo extinction model
-│   ├── monte_carlo_1.ipynb         # Monte Carlo model of solar radiation in an absorbing atmosphere
+│   ├── monte_carlo.ipynb           # Monte Carlo model of solar radiation in an absorbing atmosphere
 │   ├── SIOC_251_Homework_1.pdf     # Assignment description
 │   ├── data/
 │   │   ├── 20230607_20230607_CCNY.lev20  # AERONET Level 2.0 AOD data (CCNY, 2023-06-07)
